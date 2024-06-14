@@ -1,4 +1,3 @@
-#Laboratory
 1.1 Projektumfeld
 
 IT for Big Pharma GmbH: Fimra für IT-Lösungen, die speziell auf die Bedürfnisse der pharmazeutischen Industrie zugeschnitten sind. Pharmaziehersteller im deutschen Binnenmarkt: Das System wird für einen Hersteller entwickelt, der auf dem deutschen Markt tätig ist und sich an lokale Vorschriften und Marktanforderungen anpassen muss.
