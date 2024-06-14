@@ -1,4 +1,4 @@
-# PHLaboratory
+# Laboratory
 
 1.1 Projektumfeld
 
